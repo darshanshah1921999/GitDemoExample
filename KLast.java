@@ -54,6 +54,6 @@ class KLast{
 			// int temp = sc.nextInt();
 			push(n-i);
 		}
-		findElement(head,k);
+		findElement(head,k-1);
 	}
 }
